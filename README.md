@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @rafetbartug
-- 👀 I’m interested in software engineering and currently studying in Fatih Sultan Mehmet Vakıf University
-- 🌱 I’m currently learning java and python
-- 📫 You can reach me via my e-mail: rafetbartug@gmail.com
-
-<!---
-rafetbartug/rafetbartug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @rafetbartug  
+🎓 Final-year Software Engineering student at Fatih Sultan Mehmet Vakıf University  
+🔍 Interested in data science, data engineering, local LLMs and embedded system projects
+🛠️ Building practical, system-focused software  
+📫 Contact: rafetbartug@gmail.com
